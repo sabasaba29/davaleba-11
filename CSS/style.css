@@ -120,6 +120,7 @@ header {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
+    color: #484F5E;
 }
 
 .under_image_banner_2_button {
@@ -147,15 +148,9 @@ button{
     padding-bottom: 48px;
 }
 
-.bottom_image {
-    width: 45%;
-    height: 100%;
-}
-
 .bottom_div_right {
     display: flex;
     flex-direction: column;
-    /* align-items: top; */
     row-gap: 18px;
 }
 
