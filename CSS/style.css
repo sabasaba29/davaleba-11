@@ -20,9 +20,6 @@
 
 /* header */
 header {
-    max-width: inherit;
-    width: inherit;
-    height: 120px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -103,7 +100,7 @@ header {
 }
 
 .under_image_banner_1_p {
-    width: 65%;
+    width: 70%;
     font-weight: 700;
     font-size: 48px;
     line-height: 48px;
